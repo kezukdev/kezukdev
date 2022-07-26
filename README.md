@@ -4,7 +4,7 @@ I am a young developer who started typing his first real line of code in 2018
 # 😈 Mine Informations
  -> Learning lang: C++\
  -> Currently lang: Java and Python\
- -> Working on: Halka ;)\
+ -> Working on: Halka ;)
 
 # 🤖 Contact
  -> Discord: Kezuk#3936\
