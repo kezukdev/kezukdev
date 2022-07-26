@@ -1,16 +1,15 @@
-### Hi there 👋
+# 💼 Welcome on the Main of the Kezuk GitHub
+I am a young developer who started typing his first real line of code in 2018
 
-<!--
-**kezukdev/kezukdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 😈 Mine Informations
+ -> Learning lang: C++\
+ -> Currently lang: Java and Python\
+ -> Working on: Halka ;)\
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🤖 Contact
+ -> Discord: Kezuk#3936\
+ -> Mail: kezukdev@gmail.com\
+ -> Halka Project: https://discord.gg/StjGfxuXmN\
+ 
+ # ⚡️Kezuk Statistics
+![Kezuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=kezukdev&count_private=true)
