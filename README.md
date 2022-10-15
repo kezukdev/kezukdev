@@ -2,9 +2,9 @@
 I am a young developer who started typing his first real line of code in 2018
 
 # 😈 Mine Informations
- -> Learning lang: C++\
+ -> Learning lang: Assembler\
  -> Currently lang: Java and Python\
- -> Working on: Halka ;)
+ -> Working on: Bawz Practice
 
 # 🤖 Contact
  -> Discord: Kezuk#0777\
