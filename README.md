@@ -7,9 +7,9 @@ I am a young developer who started typing his first real line of code in 2018
  -> Working on: Halka ;)
 
 # 🤖 Contact
- -> Discord: Kezuk#3936\
+ -> Discord: Kezuk#0777\
  -> Mail: kezukdev@gmail.com\
- -> Halka Project: https://discord.gg/StjGfxuXmN\
+ -> BawZ Network: https://discord.gg/bawz\
  
  # ⚡️Kezuk Statistics
 ![Kezuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=kezukdev&count_private=true)
