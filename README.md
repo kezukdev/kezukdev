@@ -4,7 +4,7 @@ I am a young developer who started typing his first real line of code in 2018
 # 😈 Mine Informations
  -> Learning lang: Assembly\
  -> Currently lang: Java and Python\
- -> Working on: Bawz Practice
+ -> Working on: Bawz
 
 # 🤖 Contact
  -> Discord: kezuk.dev#0777\
