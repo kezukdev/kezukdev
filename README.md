@@ -7,8 +7,8 @@ I am a young developer who started typing his first real line of code in 2018
  -> Working on: Bawz Practice
 
 # 🤖 Contact
- -> Discord: Kezuk#0777\
- -> Mail: kezukdev@gmail.com\
+ -> Discord: kezuk.dev#0777\
+ -> Mail: contact@kezuk.dev
  -> BawZ Network: https://discord.gg/bawz
  
  # ⚡️Kezuk Statistics
