@@ -7,9 +7,9 @@ I am a young developer who started typing his first real line of code in 2018
  -> Working on: Potted
 
 # 🤖 Contact
- -> Discord: kezuk.dev#0777\
+ -> Discord: kezukdev\
  -> Mail: contact@kezuk.dev\
- -> Potted Ranked Network: https://discord.gg/bawz
+ -> Potted Ranked Network: https://discord.gg/potted
  
  # ⚡️Kezuk Statistics
 ![Kezuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=kezukdev&count_private=true)
