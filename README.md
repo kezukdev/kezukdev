@@ -2,14 +2,14 @@
 I am a young developer who started typing his first real line of code in 2018
 
 # 😈 Mine Informations
- -> Learning lang: Assembly\
+ -> Learning lang: HTML, CSS, JavaScript\
  -> Currently lang: Java and Python\
- -> Working on: Potted
+ -> Working on: Akyto
+ -> In forms at: OpenClassrooms
 
 # 🤖 Contact
  -> Discord: kezukdev\
  -> Mail: contact@kezuk.dev\
- -> Potted Ranked Network: https://discord.gg/potted
  
  # ⚡️Kezuk Statistics
 ![Kezuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=kezukdev&count_private=true)
