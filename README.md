@@ -4,7 +4,7 @@ I am a young developer who started typing his first real line of code in 2018
 # 😈 Mine Informations
  -> Learning lang: HTML, CSS, JavaScript\
  -> Currently lang: Java and Python\
- -> Working on: Akyto
+ -> Working on: Akyto\
  -> In forms at: OpenClassrooms
 
 # 🤖 Contact
