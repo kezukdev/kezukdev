@@ -1,4 +1,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kezukdev&label=Profile%20views&color=0e75b6&style=flat" alt="kezukdev" /> </p>
+
 # 💼 Welcome on the Main of the Kezuk GitHub
 I am a young developer who started typing his first real line of code in 2018
 
