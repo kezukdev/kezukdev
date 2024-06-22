@@ -4,8 +4,6 @@
 I am a young developer who started typing his first real line of code in 2018
 
 # 😈 Mine Informations
- -> Learning lang: JavaScript\
- -> Currently lang: Java and Python\
  -> Working on: Akyto\
  -> In forms at: OpenClassrooms
 
@@ -15,3 +13,5 @@ I am a young developer who started typing his first real line of code in 2018
  
  # ⚡️Kezuk Statistics
 ![Kezuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=kezukdev&count_private=true)
+
+<img align="left" alt="Language Stats" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kezukdev&show_icons=true&theme=dark" />
